@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtuset.github.io/reference-c8k27j/sitemap.xml
